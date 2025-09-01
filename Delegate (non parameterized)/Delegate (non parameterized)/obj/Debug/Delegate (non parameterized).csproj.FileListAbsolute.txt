@@ -1,0 +1,7 @@
+C:\Users\my pc\source\repos\Delegate (non parameterized)\Delegate (non parameterized)\bin\Debug\Delegate (non parameterized).exe.config
+C:\Users\my pc\source\repos\Delegate (non parameterized)\Delegate (non parameterized)\bin\Debug\Delegate (non parameterized).exe
+C:\Users\my pc\source\repos\Delegate (non parameterized)\Delegate (non parameterized)\bin\Debug\Delegate (non parameterized).pdb
+C:\Users\my pc\source\repos\Delegate (non parameterized)\Delegate (non parameterized)\obj\Debug\Delegate (non parameterized).csproj.AssemblyReference.cache
+C:\Users\my pc\source\repos\Delegate (non parameterized)\Delegate (non parameterized)\obj\Debug\Delegate (non parameterized).csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\Delegate (non parameterized)\Delegate (non parameterized)\obj\Debug\Delegate (non parameterized).exe
+C:\Users\my pc\source\repos\Delegate (non parameterized)\Delegate (non parameterized)\obj\Debug\Delegate (non parameterized).pdb

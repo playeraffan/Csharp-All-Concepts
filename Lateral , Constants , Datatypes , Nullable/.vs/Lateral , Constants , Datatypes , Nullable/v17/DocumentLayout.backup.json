@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\my pc\\source\\repos\\Lateral , Constants , Datatypes , Nullable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3FE3C1-AE0C-4303-8227-8C03BF0044CB}|Lateral , Constants , Datatypes , Nullable\\Lateral , Constants , Datatypes , Nullable.csproj|c:\\users\\my pc\\source\\repos\\lateral , constants , datatypes , nullable\\lateral , constants , datatypes , nullable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3FE3C1-AE0C-4303-8227-8C03BF0044CB}|Lateral , Constants , Datatypes , Nullable\\Lateral , Constants , Datatypes , Nullable.csproj|solutionrelative:lateral , constants , datatypes , nullable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\my pc\\source\\repos\\Lateral , Constants , Datatypes , Nullable\\Lateral , Constants , Datatypes , Nullable\\Program.cs",
+              "RelativeDocumentMoniker": "Lateral , Constants , Datatypes , Nullable\\Program.cs",
+              "ToolTip": "C:\\Users\\my pc\\source\\repos\\Lateral , Constants , Datatypes , Nullable\\Lateral , Constants , Datatypes , Nullable\\Program.cs",
+              "RelativeToolTip": "Lateral , Constants , Datatypes , Nullable\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAIwDEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:19:21.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

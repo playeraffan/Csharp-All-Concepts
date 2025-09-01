@@ -1,0 +1,7 @@
+C:\Users\my pc\source\repos\Polymorphism(Overriding)\Polymorphism(Overriding)\bin\Debug\Polymorphism(Overriding).exe.config
+C:\Users\my pc\source\repos\Polymorphism(Overriding)\Polymorphism(Overriding)\bin\Debug\Polymorphism(Overriding).exe
+C:\Users\my pc\source\repos\Polymorphism(Overriding)\Polymorphism(Overriding)\bin\Debug\Polymorphism(Overriding).pdb
+C:\Users\my pc\source\repos\Polymorphism(Overriding)\Polymorphism(Overriding)\obj\Debug\Polymorphism(Overriding).csproj.AssemblyReference.cache
+C:\Users\my pc\source\repos\Polymorphism(Overriding)\Polymorphism(Overriding)\obj\Debug\Polymorphism(Overriding).csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\Polymorphism(Overriding)\Polymorphism(Overriding)\obj\Debug\Polymorphism(Overriding).exe
+C:\Users\my pc\source\repos\Polymorphism(Overriding)\Polymorphism(Overriding)\obj\Debug\Polymorphism(Overriding).pdb

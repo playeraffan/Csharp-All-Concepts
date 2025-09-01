@@ -1,0 +1,7 @@
+C:\Users\my pc\source\repos\Encapsulation (Vehical mangament )\Encapsulation (Vehical mangament )\bin\Debug\Encapsulation (Vehical mangament ).exe.config
+C:\Users\my pc\source\repos\Encapsulation (Vehical mangament )\Encapsulation (Vehical mangament )\bin\Debug\Encapsulation (Vehical mangament ).exe
+C:\Users\my pc\source\repos\Encapsulation (Vehical mangament )\Encapsulation (Vehical mangament )\bin\Debug\Encapsulation (Vehical mangament ).pdb
+C:\Users\my pc\source\repos\Encapsulation (Vehical mangament )\Encapsulation (Vehical mangament )\obj\Debug\Encapsulation (Vehical mangament ).csproj.AssemblyReference.cache
+C:\Users\my pc\source\repos\Encapsulation (Vehical mangament )\Encapsulation (Vehical mangament )\obj\Debug\Encapsulation (Vehical mangament ).csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\Encapsulation (Vehical mangament )\Encapsulation (Vehical mangament )\obj\Debug\Encapsulation (Vehical mangament ).exe
+C:\Users\my pc\source\repos\Encapsulation (Vehical mangament )\Encapsulation (Vehical mangament )\obj\Debug\Encapsulation (Vehical mangament ).pdb

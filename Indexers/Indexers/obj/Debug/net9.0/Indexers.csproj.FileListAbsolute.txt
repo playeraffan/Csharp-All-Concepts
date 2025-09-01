@@ -1,0 +1,14 @@
+C:\Users\my pc\source\repos\Indexers\Indexers\bin\Debug\net9.0\Indexers.exe
+C:\Users\my pc\source\repos\Indexers\Indexers\bin\Debug\net9.0\Indexers.deps.json
+C:\Users\my pc\source\repos\Indexers\Indexers\bin\Debug\net9.0\Indexers.runtimeconfig.json
+C:\Users\my pc\source\repos\Indexers\Indexers\bin\Debug\net9.0\Indexers.dll
+C:\Users\my pc\source\repos\Indexers\Indexers\bin\Debug\net9.0\Indexers.pdb
+C:\Users\my pc\source\repos\Indexers\Indexers\obj\Debug\net9.0\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my pc\source\repos\Indexers\Indexers\obj\Debug\net9.0\Indexers.AssemblyInfoInputs.cache
+C:\Users\my pc\source\repos\Indexers\Indexers\obj\Debug\net9.0\Indexers.AssemblyInfo.cs
+C:\Users\my pc\source\repos\Indexers\Indexers\obj\Debug\net9.0\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\Indexers\Indexers\obj\Debug\net9.0\Indexers.dll
+C:\Users\my pc\source\repos\Indexers\Indexers\obj\Debug\net9.0\refint\Indexers.dll
+C:\Users\my pc\source\repos\Indexers\Indexers\obj\Debug\net9.0\Indexers.pdb
+C:\Users\my pc\source\repos\Indexers\Indexers\obj\Debug\net9.0\Indexers.genruntimeconfig.cache
+C:\Users\my pc\source\repos\Indexers\Indexers\obj\Debug\net9.0\ref\Indexers.dll

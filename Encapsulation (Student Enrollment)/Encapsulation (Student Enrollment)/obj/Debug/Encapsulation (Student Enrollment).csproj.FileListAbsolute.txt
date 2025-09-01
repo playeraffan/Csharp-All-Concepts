@@ -1,0 +1,7 @@
+C:\Users\my pc\source\repos\Encapsulation (Student Enrollment)\Encapsulation (Student Enrollment)\bin\Debug\Encapsulation (Student Enrollment).exe.config
+C:\Users\my pc\source\repos\Encapsulation (Student Enrollment)\Encapsulation (Student Enrollment)\bin\Debug\Encapsulation (Student Enrollment).exe
+C:\Users\my pc\source\repos\Encapsulation (Student Enrollment)\Encapsulation (Student Enrollment)\bin\Debug\Encapsulation (Student Enrollment).pdb
+C:\Users\my pc\source\repos\Encapsulation (Student Enrollment)\Encapsulation (Student Enrollment)\obj\Debug\Encapsulation (Student Enrollment).csproj.AssemblyReference.cache
+C:\Users\my pc\source\repos\Encapsulation (Student Enrollment)\Encapsulation (Student Enrollment)\obj\Debug\Encapsulation (Student Enrollment).csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\Encapsulation (Student Enrollment)\Encapsulation (Student Enrollment)\obj\Debug\Encapsulation (Student Enrollment).exe
+C:\Users\my pc\source\repos\Encapsulation (Student Enrollment)\Encapsulation (Student Enrollment)\obj\Debug\Encapsulation (Student Enrollment).pdb

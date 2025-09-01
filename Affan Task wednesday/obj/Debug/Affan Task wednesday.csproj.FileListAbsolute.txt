@@ -1,0 +1,7 @@
+C:\Users\my pc\source\repos\Affan Task wednesday\bin\Debug\Affan Task wednesday.exe.config
+C:\Users\my pc\source\repos\Affan Task wednesday\bin\Debug\Affan Task wednesday.exe
+C:\Users\my pc\source\repos\Affan Task wednesday\bin\Debug\Affan Task wednesday.pdb
+C:\Users\my pc\source\repos\Affan Task wednesday\obj\Debug\Affan Task wednesday.csproj.AssemblyReference.cache
+C:\Users\my pc\source\repos\Affan Task wednesday\obj\Debug\Affan Task wednesday.csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\Affan Task wednesday\obj\Debug\Affan Task wednesday.exe
+C:\Users\my pc\source\repos\Affan Task wednesday\obj\Debug\Affan Task wednesday.pdb

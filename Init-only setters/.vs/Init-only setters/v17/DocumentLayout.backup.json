@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\my pc\\source\\repos\\Init-only setters\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA3AB4DC-9EB8-4270-9DE9-66A9D64202A0}|Init-only setters\\Init-only setters.csproj|c:\\users\\my pc\\source\\repos\\init-only setters\\init-only setters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA3AB4DC-9EB8-4270-9DE9-66A9D64202A0}|Init-only setters\\Init-only setters.csproj|solutionrelative:init-only setters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\my pc\\source\\repos\\Init-only setters\\Init-only setters\\Program.cs",
+              "RelativeDocumentMoniker": "Init-only setters\\Program.cs",
+              "ToolTip": "C:\\Users\\my pc\\source\\repos\\Init-only setters\\Init-only setters\\Program.cs",
+              "RelativeToolTip": "Init-only setters\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T21:25:03.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

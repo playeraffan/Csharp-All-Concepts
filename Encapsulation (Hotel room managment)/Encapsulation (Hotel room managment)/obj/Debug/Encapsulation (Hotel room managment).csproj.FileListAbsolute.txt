@@ -1,0 +1,7 @@
+C:\Users\my pc\source\repos\Encapsulation (Hotel room managment)\Encapsulation (Hotel room managment)\bin\Debug\Encapsulation (Hotel room managment).exe.config
+C:\Users\my pc\source\repos\Encapsulation (Hotel room managment)\Encapsulation (Hotel room managment)\bin\Debug\Encapsulation (Hotel room managment).exe
+C:\Users\my pc\source\repos\Encapsulation (Hotel room managment)\Encapsulation (Hotel room managment)\bin\Debug\Encapsulation (Hotel room managment).pdb
+C:\Users\my pc\source\repos\Encapsulation (Hotel room managment)\Encapsulation (Hotel room managment)\obj\Debug\Encapsulation (Hotel room managment).csproj.AssemblyReference.cache
+C:\Users\my pc\source\repos\Encapsulation (Hotel room managment)\Encapsulation (Hotel room managment)\obj\Debug\Encapsulation (Hotel room managment).csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\Encapsulation (Hotel room managment)\Encapsulation (Hotel room managment)\obj\Debug\Encapsulation (Hotel room managment).exe
+C:\Users\my pc\source\repos\Encapsulation (Hotel room managment)\Encapsulation (Hotel room managment)\obj\Debug\Encapsulation (Hotel room managment).pdb

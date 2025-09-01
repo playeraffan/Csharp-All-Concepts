@@ -1,0 +1,14 @@
+C:\Users\my pc\source\repos\Collections\Array list (Non-generic)\Array list (Non-generic)\bin\Debug\net9.0\Array list (Non-generic).exe
+C:\Users\my pc\source\repos\Collections\Array list (Non-generic)\Array list (Non-generic)\bin\Debug\net9.0\Array list (Non-generic).deps.json
+C:\Users\my pc\source\repos\Collections\Array list (Non-generic)\Array list (Non-generic)\bin\Debug\net9.0\Array list (Non-generic).runtimeconfig.json
+C:\Users\my pc\source\repos\Collections\Array list (Non-generic)\Array list (Non-generic)\bin\Debug\net9.0\Array list (Non-generic).dll
+C:\Users\my pc\source\repos\Collections\Array list (Non-generic)\Array list (Non-generic)\bin\Debug\net9.0\Array list (Non-generic).pdb
+C:\Users\my pc\source\repos\Collections\Array list (Non-generic)\Array list (Non-generic)\obj\Debug\net9.0\Array list (Non-generic).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my pc\source\repos\Collections\Array list (Non-generic)\Array list (Non-generic)\obj\Debug\net9.0\Array list (Non-generic).AssemblyInfoInputs.cache
+C:\Users\my pc\source\repos\Collections\Array list (Non-generic)\Array list (Non-generic)\obj\Debug\net9.0\Array list (Non-generic).AssemblyInfo.cs
+C:\Users\my pc\source\repos\Collections\Array list (Non-generic)\Array list (Non-generic)\obj\Debug\net9.0\Array list (Non-generic).csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\Collections\Array list (Non-generic)\Array list (Non-generic)\obj\Debug\net9.0\Array list (Non-generic).dll
+C:\Users\my pc\source\repos\Collections\Array list (Non-generic)\Array list (Non-generic)\obj\Debug\net9.0\refint\Array list (Non-generic).dll
+C:\Users\my pc\source\repos\Collections\Array list (Non-generic)\Array list (Non-generic)\obj\Debug\net9.0\Array list (Non-generic).pdb
+C:\Users\my pc\source\repos\Collections\Array list (Non-generic)\Array list (Non-generic)\obj\Debug\net9.0\Array list (Non-generic).genruntimeconfig.cache
+C:\Users\my pc\source\repos\Collections\Array list (Non-generic)\Array list (Non-generic)\obj\Debug\net9.0\ref\Array list (Non-generic).dll

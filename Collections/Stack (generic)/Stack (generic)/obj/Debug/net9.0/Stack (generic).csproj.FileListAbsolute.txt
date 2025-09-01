@@ -1,0 +1,14 @@
+C:\Users\my pc\source\repos\Collections\Stack (generic)\Stack (generic)\bin\Debug\net9.0\Stack (generic).exe
+C:\Users\my pc\source\repos\Collections\Stack (generic)\Stack (generic)\bin\Debug\net9.0\Stack (generic).deps.json
+C:\Users\my pc\source\repos\Collections\Stack (generic)\Stack (generic)\bin\Debug\net9.0\Stack (generic).runtimeconfig.json
+C:\Users\my pc\source\repos\Collections\Stack (generic)\Stack (generic)\bin\Debug\net9.0\Stack (generic).dll
+C:\Users\my pc\source\repos\Collections\Stack (generic)\Stack (generic)\bin\Debug\net9.0\Stack (generic).pdb
+C:\Users\my pc\source\repos\Collections\Stack (generic)\Stack (generic)\obj\Debug\net9.0\Stack (generic).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my pc\source\repos\Collections\Stack (generic)\Stack (generic)\obj\Debug\net9.0\Stack (generic).AssemblyInfoInputs.cache
+C:\Users\my pc\source\repos\Collections\Stack (generic)\Stack (generic)\obj\Debug\net9.0\Stack (generic).AssemblyInfo.cs
+C:\Users\my pc\source\repos\Collections\Stack (generic)\Stack (generic)\obj\Debug\net9.0\Stack (generic).csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\Collections\Stack (generic)\Stack (generic)\obj\Debug\net9.0\Stack (generic).dll
+C:\Users\my pc\source\repos\Collections\Stack (generic)\Stack (generic)\obj\Debug\net9.0\refint\Stack (generic).dll
+C:\Users\my pc\source\repos\Collections\Stack (generic)\Stack (generic)\obj\Debug\net9.0\Stack (generic).pdb
+C:\Users\my pc\source\repos\Collections\Stack (generic)\Stack (generic)\obj\Debug\net9.0\Stack (generic).genruntimeconfig.cache
+C:\Users\my pc\source\repos\Collections\Stack (generic)\Stack (generic)\obj\Debug\net9.0\ref\Stack (generic).dll

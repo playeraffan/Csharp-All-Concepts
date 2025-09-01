@@ -1,0 +1,14 @@
+C:\Users\my pc\source\repos\Init-only setters\Init-only setters\bin\Debug\net9.0\Init-only setters.exe
+C:\Users\my pc\source\repos\Init-only setters\Init-only setters\bin\Debug\net9.0\Init-only setters.deps.json
+C:\Users\my pc\source\repos\Init-only setters\Init-only setters\bin\Debug\net9.0\Init-only setters.runtimeconfig.json
+C:\Users\my pc\source\repos\Init-only setters\Init-only setters\bin\Debug\net9.0\Init-only setters.dll
+C:\Users\my pc\source\repos\Init-only setters\Init-only setters\bin\Debug\net9.0\Init-only setters.pdb
+C:\Users\my pc\source\repos\Init-only setters\Init-only setters\obj\Debug\net9.0\Init-only setters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my pc\source\repos\Init-only setters\Init-only setters\obj\Debug\net9.0\Init-only setters.AssemblyInfoInputs.cache
+C:\Users\my pc\source\repos\Init-only setters\Init-only setters\obj\Debug\net9.0\Init-only setters.AssemblyInfo.cs
+C:\Users\my pc\source\repos\Init-only setters\Init-only setters\obj\Debug\net9.0\Init-only setters.csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\Init-only setters\Init-only setters\obj\Debug\net9.0\Init-only setters.dll
+C:\Users\my pc\source\repos\Init-only setters\Init-only setters\obj\Debug\net9.0\refint\Init-only setters.dll
+C:\Users\my pc\source\repos\Init-only setters\Init-only setters\obj\Debug\net9.0\Init-only setters.pdb
+C:\Users\my pc\source\repos\Init-only setters\Init-only setters\obj\Debug\net9.0\Init-only setters.genruntimeconfig.cache
+C:\Users\my pc\source\repos\Init-only setters\Init-only setters\obj\Debug\net9.0\ref\Init-only setters.dll

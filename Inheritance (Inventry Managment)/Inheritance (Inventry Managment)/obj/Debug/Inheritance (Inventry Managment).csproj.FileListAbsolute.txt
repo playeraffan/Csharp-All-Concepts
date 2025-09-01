@@ -1,0 +1,7 @@
+C:\Users\my pc\source\repos\Inheritance (Inventry Managment)\Inheritance (Inventry Managment)\bin\Debug\Inheritance (Inventry Managment).exe.config
+C:\Users\my pc\source\repos\Inheritance (Inventry Managment)\Inheritance (Inventry Managment)\bin\Debug\Inheritance (Inventry Managment).exe
+C:\Users\my pc\source\repos\Inheritance (Inventry Managment)\Inheritance (Inventry Managment)\bin\Debug\Inheritance (Inventry Managment).pdb
+C:\Users\my pc\source\repos\Inheritance (Inventry Managment)\Inheritance (Inventry Managment)\obj\Debug\Inheritance (Inventry Managment).csproj.AssemblyReference.cache
+C:\Users\my pc\source\repos\Inheritance (Inventry Managment)\Inheritance (Inventry Managment)\obj\Debug\Inheritance (Inventry Managment).csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\Inheritance (Inventry Managment)\Inheritance (Inventry Managment)\obj\Debug\Inheritance (Inventry Managment).exe
+C:\Users\my pc\source\repos\Inheritance (Inventry Managment)\Inheritance (Inventry Managment)\obj\Debug\Inheritance (Inventry Managment).pdb

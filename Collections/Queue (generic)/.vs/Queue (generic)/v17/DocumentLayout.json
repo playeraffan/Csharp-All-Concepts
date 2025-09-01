@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\my pc\\source\\repos\\Collections\\Queue (generic)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{734209CA-1557-4A42-9EB7-F8F11B27B0E7}|Queue (generic)\\Queue (generic).csproj|c:\\users\\my pc\\source\\repos\\collections\\queue (generic)\\queue (generic)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{734209CA-1557-4A42-9EB7-F8F11B27B0E7}|Queue (generic)\\Queue (generic).csproj|solutionrelative:queue (generic)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\my pc\\source\\repos\\Collections\\Queue (generic)\\Queue (generic)\\Program.cs",
+              "RelativeDocumentMoniker": "Queue (generic)\\Program.cs",
+              "ToolTip": "C:\\Users\\my pc\\source\\repos\\Collections\\Queue (generic)\\Queue (generic)\\Program.cs",
+              "RelativeToolTip": "Queue (generic)\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAApwBkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T12:52:15.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\my pc\\source\\repos\\Encapsulation (Vehical mangament )\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94DAAE75-8B04-41F9-9EC8-DBB9B2F69722}|Encapsulation (Vehical mangament )\\Encapsulation (Vehical mangament ).csproj|c:\\users\\my pc\\source\\repos\\encapsulation (vehical mangament )\\encapsulation (vehical mangament )\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94DAAE75-8B04-41F9-9EC8-DBB9B2F69722}|Encapsulation (Vehical mangament )\\Encapsulation (Vehical mangament ).csproj|solutionrelative:encapsulation (vehical mangament )\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\my pc\\source\\repos\\Encapsulation (Vehical mangament )\\Encapsulation (Vehical mangament )\\Program.cs",
+              "RelativeDocumentMoniker": "Encapsulation (Vehical mangament )\\Program.cs",
+              "ToolTip": "C:\\Users\\my pc\\source\\repos\\Encapsulation (Vehical mangament )\\Encapsulation (Vehical mangament )\\Program.cs",
+              "RelativeToolTip": "Encapsulation (Vehical mangament )\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T23:31:59.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

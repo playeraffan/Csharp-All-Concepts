@@ -1,0 +1,7 @@
+C:\Users\my pc\source\repos\Lateral , Constants , Datatypes , Nullable\Lateral , Constants , Datatypes , Nullable\bin\Debug\Lateral , Constants , Datatypes , Nullable.exe.config
+C:\Users\my pc\source\repos\Lateral , Constants , Datatypes , Nullable\Lateral , Constants , Datatypes , Nullable\bin\Debug\Lateral , Constants , Datatypes , Nullable.exe
+C:\Users\my pc\source\repos\Lateral , Constants , Datatypes , Nullable\Lateral , Constants , Datatypes , Nullable\bin\Debug\Lateral , Constants , Datatypes , Nullable.pdb
+C:\Users\my pc\source\repos\Lateral , Constants , Datatypes , Nullable\Lateral , Constants , Datatypes , Nullable\obj\Debug\Lateral , Constants , Datatypes , Nullable.csproj.AssemblyReference.cache
+C:\Users\my pc\source\repos\Lateral , Constants , Datatypes , Nullable\Lateral , Constants , Datatypes , Nullable\obj\Debug\Lateral , Constants , Datatypes , Nullable.csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\Lateral , Constants , Datatypes , Nullable\Lateral , Constants , Datatypes , Nullable\obj\Debug\Lateral , Constants , Datatypes , Nullable.exe
+C:\Users\my pc\source\repos\Lateral , Constants , Datatypes , Nullable\Lateral , Constants , Datatypes , Nullable\obj\Debug\Lateral , Constants , Datatypes , Nullable.pdb

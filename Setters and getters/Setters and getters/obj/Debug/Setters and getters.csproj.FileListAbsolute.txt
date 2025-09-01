@@ -1,0 +1,7 @@
+C:\Users\my pc\source\repos\Setters and getters\Setters and getters\bin\Debug\Setters and getters.exe.config
+C:\Users\my pc\source\repos\Setters and getters\Setters and getters\bin\Debug\Setters and getters.exe
+C:\Users\my pc\source\repos\Setters and getters\Setters and getters\bin\Debug\Setters and getters.pdb
+C:\Users\my pc\source\repos\Setters and getters\Setters and getters\obj\Debug\Setters and getters.csproj.AssemblyReference.cache
+C:\Users\my pc\source\repos\Setters and getters\Setters and getters\obj\Debug\Setters and getters.csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\Setters and getters\Setters and getters\obj\Debug\Setters and getters.exe
+C:\Users\my pc\source\repos\Setters and getters\Setters and getters\obj\Debug\Setters and getters.pdb

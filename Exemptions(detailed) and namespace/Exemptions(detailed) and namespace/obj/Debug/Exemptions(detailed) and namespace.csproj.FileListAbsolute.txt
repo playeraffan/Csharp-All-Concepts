@@ -1,0 +1,7 @@
+C:\Users\my pc\source\repos\Exemptions(detailed) and namespace\Exemptions(detailed) and namespace\bin\Debug\Exemptions(detailed) and namespace.exe.config
+C:\Users\my pc\source\repos\Exemptions(detailed) and namespace\Exemptions(detailed) and namespace\bin\Debug\Exemptions(detailed) and namespace.exe
+C:\Users\my pc\source\repos\Exemptions(detailed) and namespace\Exemptions(detailed) and namespace\bin\Debug\Exemptions(detailed) and namespace.pdb
+C:\Users\my pc\source\repos\Exemptions(detailed) and namespace\Exemptions(detailed) and namespace\obj\Debug\Exemptions(detailed) and namespace.csproj.AssemblyReference.cache
+C:\Users\my pc\source\repos\Exemptions(detailed) and namespace\Exemptions(detailed) and namespace\obj\Debug\Exemptions(detailed) and namespace.csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\Exemptions(detailed) and namespace\Exemptions(detailed) and namespace\obj\Debug\Exemptions(detailed) and namespace.exe
+C:\Users\my pc\source\repos\Exemptions(detailed) and namespace\Exemptions(detailed) and namespace\obj\Debug\Exemptions(detailed) and namespace.pdb

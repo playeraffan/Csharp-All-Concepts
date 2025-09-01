@@ -1,0 +1,14 @@
+C:\Users\my pc\source\repos\Collections\Queue (generic)\Queue (generic)\obj\Debug\net9.0\Queue (generic).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my pc\source\repos\Collections\Queue (generic)\Queue (generic)\obj\Debug\net9.0\Queue (generic).AssemblyInfoInputs.cache
+C:\Users\my pc\source\repos\Collections\Queue (generic)\Queue (generic)\obj\Debug\net9.0\Queue (generic).AssemblyInfo.cs
+C:\Users\my pc\source\repos\Collections\Queue (generic)\Queue (generic)\obj\Debug\net9.0\Queue (generic).csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\Collections\Queue (generic)\Queue (generic)\bin\Debug\net9.0\Queue (generic).exe
+C:\Users\my pc\source\repos\Collections\Queue (generic)\Queue (generic)\bin\Debug\net9.0\Queue (generic).deps.json
+C:\Users\my pc\source\repos\Collections\Queue (generic)\Queue (generic)\bin\Debug\net9.0\Queue (generic).runtimeconfig.json
+C:\Users\my pc\source\repos\Collections\Queue (generic)\Queue (generic)\bin\Debug\net9.0\Queue (generic).dll
+C:\Users\my pc\source\repos\Collections\Queue (generic)\Queue (generic)\bin\Debug\net9.0\Queue (generic).pdb
+C:\Users\my pc\source\repos\Collections\Queue (generic)\Queue (generic)\obj\Debug\net9.0\Queue (generic).dll
+C:\Users\my pc\source\repos\Collections\Queue (generic)\Queue (generic)\obj\Debug\net9.0\refint\Queue (generic).dll
+C:\Users\my pc\source\repos\Collections\Queue (generic)\Queue (generic)\obj\Debug\net9.0\Queue (generic).pdb
+C:\Users\my pc\source\repos\Collections\Queue (generic)\Queue (generic)\obj\Debug\net9.0\Queue (generic).genruntimeconfig.cache
+C:\Users\my pc\source\repos\Collections\Queue (generic)\Queue (generic)\obj\Debug\net9.0\ref\Queue (generic).dll

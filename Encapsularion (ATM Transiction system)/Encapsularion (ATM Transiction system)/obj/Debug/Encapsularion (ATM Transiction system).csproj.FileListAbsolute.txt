@@ -1,0 +1,7 @@
+C:\Users\my pc\source\repos\Encapsularion (ATM Transiction system)\Encapsularion (ATM Transiction system)\bin\Debug\Encapsularion (ATM Transiction system).exe.config
+C:\Users\my pc\source\repos\Encapsularion (ATM Transiction system)\Encapsularion (ATM Transiction system)\bin\Debug\Encapsularion (ATM Transiction system).exe
+C:\Users\my pc\source\repos\Encapsularion (ATM Transiction system)\Encapsularion (ATM Transiction system)\bin\Debug\Encapsularion (ATM Transiction system).pdb
+C:\Users\my pc\source\repos\Encapsularion (ATM Transiction system)\Encapsularion (ATM Transiction system)\obj\Debug\Encapsularion (ATM Transiction system).csproj.AssemblyReference.cache
+C:\Users\my pc\source\repos\Encapsularion (ATM Transiction system)\Encapsularion (ATM Transiction system)\obj\Debug\Encapsularion (ATM Transiction system).csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\Encapsularion (ATM Transiction system)\Encapsularion (ATM Transiction system)\obj\Debug\Encapsularion (ATM Transiction system).exe
+C:\Users\my pc\source\repos\Encapsularion (ATM Transiction system)\Encapsularion (ATM Transiction system)\obj\Debug\Encapsularion (ATM Transiction system).pdb

@@ -1,0 +1,7 @@
+C:\Users\my pc\source\repos\Inheritance (vehical mangment system)\Inheritance (vehical mangment system)\bin\Debug\Inheritance (vehical mangment system).exe.config
+C:\Users\my pc\source\repos\Inheritance (vehical mangment system)\Inheritance (vehical mangment system)\bin\Debug\Inheritance (vehical mangment system).exe
+C:\Users\my pc\source\repos\Inheritance (vehical mangment system)\Inheritance (vehical mangment system)\bin\Debug\Inheritance (vehical mangment system).pdb
+C:\Users\my pc\source\repos\Inheritance (vehical mangment system)\Inheritance (vehical mangment system)\obj\Debug\Inheritance (vehical mangment system).csproj.AssemblyReference.cache
+C:\Users\my pc\source\repos\Inheritance (vehical mangment system)\Inheritance (vehical mangment system)\obj\Debug\Inheritance (vehical mangment system).csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\Inheritance (vehical mangment system)\Inheritance (vehical mangment system)\obj\Debug\Inheritance (vehical mangment system).exe
+C:\Users\my pc\source\repos\Inheritance (vehical mangment system)\Inheritance (vehical mangment system)\obj\Debug\Inheritance (vehical mangment system).pdb

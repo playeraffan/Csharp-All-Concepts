@@ -1,0 +1,7 @@
+C:\Users\my pc\source\repos\Inheritance (ATM Transiction)\Inheritance (ATM Transiction)\bin\Debug\Inheritance (ATM Transiction).exe.config
+C:\Users\my pc\source\repos\Inheritance (ATM Transiction)\Inheritance (ATM Transiction)\bin\Debug\Inheritance (ATM Transiction).exe
+C:\Users\my pc\source\repos\Inheritance (ATM Transiction)\Inheritance (ATM Transiction)\bin\Debug\Inheritance (ATM Transiction).pdb
+C:\Users\my pc\source\repos\Inheritance (ATM Transiction)\Inheritance (ATM Transiction)\obj\Debug\Inheritance (ATM Transiction).csproj.AssemblyReference.cache
+C:\Users\my pc\source\repos\Inheritance (ATM Transiction)\Inheritance (ATM Transiction)\obj\Debug\Inheritance (ATM Transiction).csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\Inheritance (ATM Transiction)\Inheritance (ATM Transiction)\obj\Debug\Inheritance (ATM Transiction).exe
+C:\Users\my pc\source\repos\Inheritance (ATM Transiction)\Inheritance (ATM Transiction)\obj\Debug\Inheritance (ATM Transiction).pdb

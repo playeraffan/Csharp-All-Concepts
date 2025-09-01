@@ -1,0 +1,7 @@
+C:\Users\my pc\source\repos\Polymoshpism (Overloading)\Polymoshpism (Overloading)\bin\Debug\Polymoshpism (Overloading).exe.config
+C:\Users\my pc\source\repos\Polymoshpism (Overloading)\Polymoshpism (Overloading)\bin\Debug\Polymoshpism (Overloading).exe
+C:\Users\my pc\source\repos\Polymoshpism (Overloading)\Polymoshpism (Overloading)\bin\Debug\Polymoshpism (Overloading).pdb
+C:\Users\my pc\source\repos\Polymoshpism (Overloading)\Polymoshpism (Overloading)\obj\Debug\Polymoshpism (Overloading).csproj.AssemblyReference.cache
+C:\Users\my pc\source\repos\Polymoshpism (Overloading)\Polymoshpism (Overloading)\obj\Debug\Polymoshpism (Overloading).csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\Polymoshpism (Overloading)\Polymoshpism (Overloading)\obj\Debug\Polymoshpism (Overloading).exe
+C:\Users\my pc\source\repos\Polymoshpism (Overloading)\Polymoshpism (Overloading)\obj\Debug\Polymoshpism (Overloading).pdb

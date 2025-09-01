@@ -1,0 +1,7 @@
+C:\Users\my pc\source\repos\Inheritance (Online ticket booking)\Inheritance (Online ticket booking)\bin\Debug\Inheritance (Online ticket booking).exe.config
+C:\Users\my pc\source\repos\Inheritance (Online ticket booking)\Inheritance (Online ticket booking)\bin\Debug\Inheritance (Online ticket booking).exe
+C:\Users\my pc\source\repos\Inheritance (Online ticket booking)\Inheritance (Online ticket booking)\bin\Debug\Inheritance (Online ticket booking).pdb
+C:\Users\my pc\source\repos\Inheritance (Online ticket booking)\Inheritance (Online ticket booking)\obj\Debug\Inheritance (Online ticket booking).csproj.AssemblyReference.cache
+C:\Users\my pc\source\repos\Inheritance (Online ticket booking)\Inheritance (Online ticket booking)\obj\Debug\Inheritance (Online ticket booking).csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\Inheritance (Online ticket booking)\Inheritance (Online ticket booking)\obj\Debug\Inheritance (Online ticket booking).exe
+C:\Users\my pc\source\repos\Inheritance (Online ticket booking)\Inheritance (Online ticket booking)\obj\Debug\Inheritance (Online ticket booking).pdb

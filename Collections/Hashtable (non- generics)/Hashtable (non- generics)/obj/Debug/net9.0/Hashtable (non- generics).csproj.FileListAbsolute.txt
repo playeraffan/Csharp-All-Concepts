@@ -1,0 +1,14 @@
+C:\Users\my pc\source\repos\Collections\Hashtable (non- generics)\Hashtable (non- generics)\bin\Debug\net9.0\Hashtable (non- generics).exe
+C:\Users\my pc\source\repos\Collections\Hashtable (non- generics)\Hashtable (non- generics)\bin\Debug\net9.0\Hashtable (non- generics).deps.json
+C:\Users\my pc\source\repos\Collections\Hashtable (non- generics)\Hashtable (non- generics)\bin\Debug\net9.0\Hashtable (non- generics).runtimeconfig.json
+C:\Users\my pc\source\repos\Collections\Hashtable (non- generics)\Hashtable (non- generics)\bin\Debug\net9.0\Hashtable (non- generics).dll
+C:\Users\my pc\source\repos\Collections\Hashtable (non- generics)\Hashtable (non- generics)\bin\Debug\net9.0\Hashtable (non- generics).pdb
+C:\Users\my pc\source\repos\Collections\Hashtable (non- generics)\Hashtable (non- generics)\obj\Debug\net9.0\Hashtable (non- generics).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my pc\source\repos\Collections\Hashtable (non- generics)\Hashtable (non- generics)\obj\Debug\net9.0\Hashtable (non- generics).AssemblyInfoInputs.cache
+C:\Users\my pc\source\repos\Collections\Hashtable (non- generics)\Hashtable (non- generics)\obj\Debug\net9.0\Hashtable (non- generics).AssemblyInfo.cs
+C:\Users\my pc\source\repos\Collections\Hashtable (non- generics)\Hashtable (non- generics)\obj\Debug\net9.0\Hashtable (non- generics).csproj.CoreCompileInputs.cache
+C:\Users\my pc\source\repos\Collections\Hashtable (non- generics)\Hashtable (non- generics)\obj\Debug\net9.0\Hashtable (non- generics).dll
+C:\Users\my pc\source\repos\Collections\Hashtable (non- generics)\Hashtable (non- generics)\obj\Debug\net9.0\refint\Hashtable (non- generics).dll
+C:\Users\my pc\source\repos\Collections\Hashtable (non- generics)\Hashtable (non- generics)\obj\Debug\net9.0\Hashtable (non- generics).pdb
+C:\Users\my pc\source\repos\Collections\Hashtable (non- generics)\Hashtable (non- generics)\obj\Debug\net9.0\Hashtable (non- generics).genruntimeconfig.cache
+C:\Users\my pc\source\repos\Collections\Hashtable (non- generics)\Hashtable (non- generics)\obj\Debug\net9.0\ref\Hashtable (non- generics).dll

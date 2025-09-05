@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Http;
+
+using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Web_Api.Model;
 
@@ -36,10 +38,10 @@ namespace Web_Api.Controllers
 
 
 
-        [HttpGet("id")]
-        public ActionResult<List<Employee>> SearcRrecord(in id)
+        [HttpGet("{id}")]
+        public ActionResult<List<Employee>> SearcRrecord(int id)
         { 
-          var find_row - db.Employees.Find(id);
+          var find_row = db.Employees.Find(id);
             if (find_row == null)
             {
                 return NotFound("Record not found");
@@ -50,12 +52,12 @@ namespace Web_Api.Controllers
         [HttpPut("{id}")]
         public async Task<ActionResult<Employee>> UpdateEmployee(int id, Employee e)
         {
-            if (id != e.id)
+            if (id != e.Id)
             {
-                return badrequest();
+                return BadRequest();
             }
             db.Entry(e).State = EntityState.Modified;
-            await .db.SaveChangesAsync();
+            await db.SaveChangesAsync();
             return Ok();
 
 
@@ -68,8 +70,8 @@ namespace Web_Api.Controllers
             var find_row = db.Employees.Find(id);
             if (find_row != null)
             { 
-             db.employees.Remove(find_row);
-                db.saveChanges();
+             db.Employees.Remove(find_row);
+                db.SaveChanges();
             }
             else
             {
